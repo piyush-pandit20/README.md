@@ -1,4 +1,3 @@
-# README.md
 <h1 align="center">👋 Hi, I'm piyush pandit</h1>
 
 <h3 align="center">
@@ -6,7 +5,7 @@
 </h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=satyamnavdiya&label=Profile%20views&color=0e75b6&style=flat" alt="satyamnavdiya" />
+  <img src="https://komarev.com/ghpvc/?username=piyush-pandit20a&label=Profile%20views&color=0e75b6&style=flat" alt="satyamnavdiya" />
 </p>
 
 ---
