@@ -1,7 +1,7 @@
 <h1 align="center">👋 Hi, I'm piyush pandit</h1>
 
 <h3 align="center">
-🚀 Full Stack Developer | 💼 Working at Codespire Surat
+🚀 Full Stack Developer | 💼 Working at LaMinds Surat
 </h3>
 
 <p align="center">
@@ -24,7 +24,7 @@
 ### 🛠️ Tech Stack
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=nextjs,react,js,ts,nodejs,express,mongodb,npm,tailwind,html,css,figma,git,github,vs,vercel,netlify" />
+  <img src="https://skillicons.dev/icons?i=html,css,react,nextjs,js,ts,nodejs,express,mongodb,npm,tailwind,figma,git,github,vs,vercel,netlify" />
 </p>
 
 ---
